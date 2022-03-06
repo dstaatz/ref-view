@@ -55,7 +55,7 @@ Mutable referenced structs can be generated with `RefViewMut`.
 - More control over visability of generated struct
 
 
-#### License
+## License
 
 Licensed under either of [Apache License, Version 2.0](LICENSE-APACHE) or
 [MIT license](LICENSE-MIT) at your option.
