@@ -1,0 +1,9 @@
+[package]
+name = "refview"
+version = "0.1.0"
+authors = ["Dylan Staatz <dylanstaatz@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+refview_derive = { path = "../refview_derive" }

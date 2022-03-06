@@ -1,6 +1,2 @@
-[package]
-name = "ref-view"
-version = "0.1.0"
-edition = "2018"
-
-[dependencies]
+[workspace]
+members = ["example", "refview", "refview_derive"]
